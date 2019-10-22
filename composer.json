@@ -8,7 +8,6 @@
 			"email" : "matt_henderson@sil.org"
 		}
 	],
-	"minimum-stability" : "stable",
 	"require" : {
 		"php" : ">=7.0",
 		"ext-json" : "*",
