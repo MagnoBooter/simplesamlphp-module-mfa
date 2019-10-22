@@ -13,7 +13,7 @@
 		"ext-json" : "*",
 		"silinternational/php-env" : "^2.1",
 		"silinternational/psr3-adapters" : "dev-develop",
-		"simplesamlphp/simplesamlphp" : "~1.17.1",
+		"simplesamlphp/simplesamlphp" : "*",
 		"silinternational/idp-id-broker-php-client" : "dev-develop",
 		"sinergi/browser-detector" : "^6.1"
 	},
